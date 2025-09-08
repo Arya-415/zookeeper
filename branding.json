@@ -1,0 +1,31 @@
+{
+    "brand":
+    {
+        "organizationName": "EXOTIC ZOO",
+        "website": "https://hereandnowai.com",
+        "email": "info@hereandnowai.com",
+        "mobile": "+91 996 296 1000",
+        "slogan": "Wild Wonders Await!",
+        "colors": {
+            "primary": "#E1A200",
+            "secondary": "#174230",
+            "accent": "#FF8C42"
+        },
+        "logo": {
+            "title": "https://eu-assets.simpleview-europe.com/visittelford/imageresizer/?image=%2Fdmsimgs%2FNew_logo_final_1__1914107528.png&action=ProductMain",
+            "favicon": "https://st3.depositphotos.com/1064969/14025/v/450/depositphotos_140255574-stock-illustration-zoo-gate-icon.jpg"
+        },
+        "chatbot": {
+            "avatar": "https://images.nightcafe.studio/jobs/VIAFa8GOYcojrkjp1J3a/VIAFa8GOYcojrkjp1J3a--1--lg5kz.jpg?tr=w-1600,c-at_max",
+            "face": "https://tse4.mm.bing.net/th/id/OIP.9kazZdxfH3fjjmS7dMbJTgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
+        },
+        "socialMedia": {
+            "blog": "https://hereandnowai.com/blog",
+            "linkedin": "https://www.linkedin.com/company/hereandnowai/",
+            "instagram": "https://instagram.com/hereandnow_ai",
+            "github": "https://github.com/hereandnowai",
+            "x": "https://x.com/hereandnow_ai",
+            "youtube": "https://youtube.com/@hereandnow_ai"
+        }
+    }
+}
